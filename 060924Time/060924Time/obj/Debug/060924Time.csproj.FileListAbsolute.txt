@@ -1,0 +1,15 @@
+E:\Программирование\Projects C#4\060924Time\060924Time\bin\Debug\060924Time.exe.config
+E:\Программирование\Projects C#4\060924Time\060924Time\bin\Debug\060924Time.exe
+E:\Программирование\Projects C#4\060924Time\060924Time\bin\Debug\060924Time.pdb
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.csproj.AssemblyReference.cache
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\MainWindow.g.cs
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\App.g.cs
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time_MarkupCompile.cache
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time_MarkupCompile.lref
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\MainWindow.baml
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.g.resources
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\_060924Time.Properties.Resources.resources
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.csproj.GenerateResource.cache
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.csproj.CoreCompileInputs.cache
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.exe
+E:\Программирование\Projects C#4\060924Time\060924Time\obj\Debug\060924Time.pdb
